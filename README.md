@@ -32,7 +32,6 @@ coding-practice-strings/
 │   └── wordBreak.java
 └── README.md
 
-
 ---
 
 ## 🧠 Problem Index
