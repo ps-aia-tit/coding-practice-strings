@@ -9,29 +9,28 @@ Welcome to the **String Coding Practice** repository — a curated collection of
 
 ---
 
-## 📁 Folder Structure
+## 📦 Java Package Structure
 
-- `coding-practice-strings/`
-  - `beginner/`
-    - `reverseString.java`
-    - `isPalindrome.java`
-    - `countVowelsConsonants.java`
-    - `removeDuplicates.java`
-    - `firstUniqueChar.java`
-  - `intermediate/`
-    - `isAnagram.java`
-    - `longestCommonPrefix.java`
-    - `stringCompression.java`
-    - `groupAnagrams.java`
-    - `isRotation.java`
-  - `advanced/`
-    - `zigzagConversion.java`
-    - `minWindowSubstring.java`
-    - `longestPalindrome.java`
-    - `wildcardMatch.java`
-    - `wordBreak.java`
-    - `validPalindrome.java`
-  - `README.md`
+- `com.aiatit.practice`
+  - `beginner`
+    - `ReverseString.java`
+    - `IsPalindrome.java`
+    - `CountVowelsConsonants.java`
+    - `RemoveDuplicates.java`
+    - `FirstUniqueChar.java`
+  - `intermediate`
+    - `IsAnagram.java`
+    - `LongestCommonPrefix.java`
+    - `StringCompression.java`
+    - `GroupAnagrams.java`
+    - `IsRotation.java`
+  - `advanced`
+    - `ZigzagConversion.java`
+    - `MinWindowSubstring.java`
+    - `LongestPalindrome.java`
+    - `WildcardMatch.java`
+    - `WordBreak.java`
+    - `ValidPalindrome.java`
 
 ---
 
