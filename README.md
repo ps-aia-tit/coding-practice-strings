@@ -11,48 +11,54 @@ Welcome to the **String Coding Practice** repository — a curated collection of
 
 ## 📦 Java Package Structure
 
-- `com.aiatit.practice`
-  - `beginner`
-    - `ReverseString.java`
-    - `IsPalindrome.java`
-    - `CountVowelsConsonants.java`
-    - `RemoveDuplicates.java`
-    - `FirstUniqueChar.java`
-  - `intermediate`
-    - `IsAnagram.java`
-    - `LongestCommonPrefix.java`
-    - `StringCompression.java`
-    - `GroupAnagrams.java`
-    - `IsRotation.java`
-  - `advanced`
-    - `ZigzagConversion.java`
-    - `MinWindowSubstring.java`
-    - `LongestPalindrome.java`
-    - `WildcardMatch.java`
-    - `WordBreak.java`
-    - `ValidPalindrome.java`
+- `coding-practice-strings/`
+  - `src/`
+    - `com/`
+      - `aiatit/`
+        - `practice/`
+          - `beginner/`
+            - `ReverseString.java`
+            - `IsPalindrome.java`
+            - `CountVowelsConsonants.java`
+            - `RemoveDuplicates.java`
+            - `FirstUniqueChar.java`
+          - `intermediate/`
+            - `IsAnagram.java`
+            - `LongestCommonPrefix.java`
+            - `StringCompression.java`
+            - `GroupAnagrams.java`
+            - `IsRotation.java`
+          - `advanced/`
+            - `ZigzagConversion.java`
+            - `MinWindowSubstring.java`
+            - `LongestPalindrome.java`
+            - `WildcardMatch.java`
+            - `WordBreak.java`
+            - `ValidPalindrome.java`
+  - `README.md`
 
 ---
 
 ## 🧠 Problem Index
 
-| Level       | Problem                                  | Link |
-|-------------|-------------------------------------------|------|
-| Beginner    | Reverse a String                          | [reverseString.java](./beginner/reverseString.java) |
-| Beginner    | Check for Palindrome                      | [isPalindrome.java](./beginner/isPalindrome.java) |
-| Beginner    | Count Vowels and Consonants               | [countVowelsConsonants.java](./beginner/countVowelsConsonants.java) |
-| Beginner    | Remove Duplicate Characters               | [removeDuplicates.java](./beginner/removeDuplicates.java) |
-| Beginner    | First Non-Repeating Character             | [firstUniqueChar.java](./beginner/firstUniqueChar.java) |
-| Intermediate| Anagram Check                             | [isAnagram.java](./intermediate/isAnagram.java) |
-| Intermediate| Longest Common Prefix                     | [longestCommonPrefix.java](./intermediate/longestCommonPrefix.java) |
-| Intermediate| String Compression                        | [stringCompression.java](./intermediate/stringCompression.java) |
-| Intermediate| Group Anagrams                            | [groupAnagrams.java](./intermediate/groupAnagrams.java) |
-| Intermediate| Check String Rotations                    | [isRotation.java](./intermediate/isRotation.java) |
-| Advanced    | Zigzag Conversion                         | [zigzagConversion.java](./advanced/zigzagConversion.java) |
-| Advanced    | Minimum Window Substring                  | [minWindowSubstring.java](./advanced/minWindowSubstring.java) |
-| Advanced    | Longest Palindromic Substring             | [longestPalindrome.java](./advanced/longestPalindrome.java) |
-| Advanced    | Wildcard Pattern Matching                 | [wildcardMatch.java](./advanced/wildcardMatch.java) |
-| Advanced    | Word Break Problem                        | [wordBreak.java](./advanced/wordBreak.java) |
+| Level        | Problem                          | Description                                           | Java File Link |
+|--------------|----------------------------------|-------------------------------------------------------|----------------|
+| Beginner     | Reverse a String                 | Reverse the characters of a string                    | [ReverseString.java](./src/com/aiatit/practice/beginner/ReverseString.java) |
+| Beginner     | Check for Palindrome             | Check if a string reads the same forward and backward| [IsPalindrome.java](./src/com/aiatit/practice/beginner/IsPalindrome.java) |
+| Beginner     | Count Vowels and Consonants      | Count vowels and consonants in a string              | [CountVowelsConsonants.java](./src/com/aiatit/practice/beginner/CountVowelsConsonants.java) |
+| Beginner     | Remove Duplicate Characters      | Remove repeated characters from a string             | [RemoveDuplicates.java](./src/com/aiatit/practice/beginner/RemoveDuplicates.java) |
+| Beginner     | First Non-Repeating Character    | Find the first unique character in a string          | [FirstUniqueChar.java](./src/com/aiatit/practice/beginner/FirstUniqueChar.java) |
+| Intermediate | Anagram Check                    | Check if two strings are anagrams                    | [IsAnagram.java](./src/com/aiatit/practice/intermediate/IsAnagram.java) |
+| Intermediate | Longest Common Prefix            | Find the longest shared prefix among strings         | [LongestCommonPrefix.java](./src/com/aiatit/practice/intermediate/LongestCommonPrefix.java) |
+| Intermediate | String Compression               | Compress repeated characters into counts             | [StringCompression.java](./src/com/aiatit/practice/intermediate/StringCompression.java) |
+| Intermediate | Group Anagrams                   | Group strings that are anagrams                      | [GroupAnagrams.java](./src/com/aiatit/practice/intermediate/GroupAnagrams.java) |
+| Intermediate | Check String Rotations           | Check if one string is a rotation of another         | [IsRotation.java](./src/com/aiatit/practice/intermediate/IsRotation.java) |
+| Advanced     | Zigzag Conversion                | Convert string into zigzag pattern                   | [ZigzagConversion.java](./src/com/aiatit/practice/advanced/ZigzagConversion.java) |
+| Advanced     | Minimum Window Substring         | Find smallest substring containing all characters    | [MinWindowSubstring.java](./src/com/aiatit/practice/advanced/MinWindowSubstring.java) |
+| Advanced     | Longest Palindromic Substring    | Find the longest palindrome in a string              | [LongestPalindrome.java](./src/com/aiatit/practice/advanced/LongestPalindrome.java) |
+| Advanced     | Wildcard Pattern Matching        | Match string against wildcard pattern                | [WildcardMatch.java](./src/com/aiatit/practice/advanced/WildcardMatch.java) |
+| Advanced     | Word Break Problem               | Check if string can be segmented using dictionary    | [WordBreak.java](./src/com/aiatit/practice/advanced/WordBreak.java) |
+| Advanced     | Valid Palindrome (with cleanup)  | Check if a string is a valid palindrome ignoring non-alphanumerics | [ValidPalindrome.java](./src/com/aiatit/practice/advanced/ValidPalindrome.java) |
 
 ---
 
