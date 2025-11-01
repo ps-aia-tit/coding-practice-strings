@@ -11,26 +11,27 @@ Welcome to the **String Coding Practice** repository — a curated collection of
 
 ## 📁 Folder Structure
 
-coding-practice-strings/
-├── beginner/
-│   ├── reverseString.java
-│   ├── isPalindrome.java
-│   ├── countVowelsConsonants.java
-│   ├── removeDuplicates.java
-│   └── firstUniqueChar.java
-├── intermediate/
-│   ├── isAnagram.java
-│   ├── longestCommonPrefix.java
-│   ├── stringCompression.java
-│   ├── groupAnagrams.java
-│   └── isRotation.java
-├── advanced/
-│   ├── zigzagConversion.java
-│   ├── minWindowSubstring.java
-│   ├── longestPalindrome.java
-│   ├── wildcardMatch.java
-│   └── wordBreak.java
-└── README.md
+- `coding-practice-strings/`
+  - `beginner/`
+    - `reverseString.java`
+    - `isPalindrome.java`
+    - `countVowelsConsonants.java`
+    - `removeDuplicates.java`
+    - `firstUniqueChar.java`
+  - `intermediate/`
+    - `isAnagram.java`
+    - `longestCommonPrefix.java`
+    - `stringCompression.java`
+    - `groupAnagrams.java`
+    - `isRotation.java`
+  - `advanced/`
+    - `zigzagConversion.java`
+    - `minWindowSubstring.java`
+    - `longestPalindrome.java`
+    - `wildcardMatch.java`
+    - `wordBreak.java`
+    - `validPalindrome.java`
+  - `README.md`
 
 ---
 
