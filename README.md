@@ -33,7 +33,6 @@ coding-practice-strings/
 └── README.md
 
 
-
 ---
 
 ## 🧠 Problem Index
