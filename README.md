@@ -1,6 +1,6 @@
 # 🔤 Coding Practice: Strings in Java
 
-Welcome to the **String Coding Practice** repository — a curated collection of Java-based string problems designed for interview prep, recruiter visibility, and modular learning. Each problem includes:
+Welcome to the **String Coding Practice** repository — a curated collection of Java-based string problems designed for prep, recruiter visibility, and modular learning. Each problem includes:
 
 - ✅ Clear problem definition  
 - 🧪 Sample input/output  
