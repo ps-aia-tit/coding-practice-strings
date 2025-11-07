@@ -93,8 +93,14 @@ public class SlidingWindowExample {
 }
 
 ```
+
 ---
-## 2. UI
+
+## 2. Two Pointer Example
+Remive Duplicate from Array
+
+---
+
 
 ```java
 public class TwoPointersExample {
@@ -116,13 +122,17 @@ public class TwoPointersExample {
     }
 }
 ```
+
 ---
+
 ## 3. Fast & Slow Pointers
 
 Problem: Detect Cycle in Linked List
 
 Input: 3 → 2 → 0 → -4 → (points back to 2)Output: true
+
 ---
+
 ```java
 class ListNode {
     int val;
@@ -153,6 +163,7 @@ public class CycleDetectionExample {
 }
 
 ```
+
 ---
 
 4. Merge Intervals
@@ -162,6 +173,7 @@ Problem: Merge Overlapping Intervals
 Input: [[1,3],[2,6],[8,10],[15,18]]Output: [[1,6],[8,10],[15,18]]
 
 ---
+
 ```java
 public class MergeIntervalsExample {
     public static int[][] merge(int[][] intervals) {
@@ -189,7 +201,9 @@ public class MergeIntervalsExample {
 }
 
 ```
+
 ---
+
 ##  5. Binary Search
 
 Problem: Search Target in Sorted Array
@@ -197,6 +211,7 @@ Problem: Search Target in Sorted Array
 Input: nums = [1,3,5,7,9], target = 5Output: 2
 
 ---
+
 ```java
 public class BinarySearchExample {
     public static int binarySearch(int[] nums, int target) {
@@ -217,13 +232,17 @@ public class BinarySearchExample {
 }
 
 ```
+
 ---
+
 ## 6. Depth-First Search (DFS)
 
 Problem: Path Sum in Binary Tree
 
 Input: Tree with path 5 → 4 → 11 → 2, target = 22Output: true
+
 ---
+
 ```Java
 
 class TreeNode {
@@ -251,7 +270,9 @@ public class DFSExample {
 }
 
 ```
+
 ---
+
 ## 7. Breadth-First Search (BFS)
 
 Problem: Minimum Depth of Binary Tree
@@ -295,7 +316,9 @@ public class BFSExample {
 
 
 ```
+
 ---
+
 ## 8. Dynamic Programming (DP)
 
 Problem: Climbing Stairs
@@ -321,16 +344,24 @@ public static int climbStairs(int n) {
     }
 }
 ```
+
 ---
+
 ## 9.
 
 ---
 
+
 ```java
 
+
 ```
+
 ---
+
 ## 🚀 How to Run
+
+---
 
 ```bash
 # Clone the repo
@@ -343,4 +374,6 @@ cd coding-practice-strings/beginner
 javac reverseString.java
 java ReverseString
 ```
+
+---
 
