@@ -62,7 +62,7 @@ Welcome to the **String Coding Practice** repository — a curated collection of
 
 ---
 
-## collection of 8 Java examples,
+## Collection of 8 Important Pattern Java examples,
 
 ---
 ##  1. Sliding Window
